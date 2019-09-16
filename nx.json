@@ -19,6 +19,21 @@
     },
     "angular-two": {
       "tags": []
+    },
+    "shared-components": {
+      "tags": []
+    },
+    "shared-styles": {
+      "tags": []
+    },
+    "utilities": {
+      "tags": []
+    },
+    "components": {
+      "tags": []
+    },
+    "shared": {
+      "tags": []
     }
   }
 }
